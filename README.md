@@ -24,7 +24,7 @@ This is not a toy sentiment classifier — it’s a **flagship ML project** comb
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3.12**
 - **PyTorch 2.2.2+cpu**
 - **Transformers (Hugging Face)**
